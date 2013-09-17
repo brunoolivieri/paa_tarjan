@@ -1,0 +1,20 @@
+33d32945 STP File, STP Format Version  1.00
+Section Comment
+Name    "DMXA0628"
+Creator "Alexander Martin and Thorsten Koch"
+Remark  "Real world VLSI problem"
+End
+
+Section Graph
+Nodes 169
+Edges 280
+E 1 2 5
+E 2 3 5
+E 3 4 5
+E 4 5 5
+E 5 6 5
+E 6 7 5
+E 7 8 5
+E 8 9 5
+E 9 10 5
+END
